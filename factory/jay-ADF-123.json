@@ -1,0 +1,9 @@
+{
+	"name": "jay-ADF-123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9535affd-7ad0-4d25-89b8-23d5a7ea5d9d",
+		"tenantId": "b7b167d5-fc9a-4f55-a39f-83b61257f325"
+	}
+}
